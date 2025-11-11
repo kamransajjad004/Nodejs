@@ -1,0 +1,2 @@
+Package.json is a configuration (metadata) file that defines everything about your Node.js project
+It's name, version, dependencies, scripts, author, and more.
